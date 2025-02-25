@@ -1,0 +1,4 @@
+pandasai>=3.0.0b2
+streamlit==1.42.2
+pandasai-local==0.1.4
+openpyxl==3.1.5
